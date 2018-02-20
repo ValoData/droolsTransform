@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+Built-By: Suni Haroon
+Build-Jdk: 9.0.4
+Class-Path: lib/kie-api-7.0.0.Final.jar lib/slf4j-api-1.7.7.jar lib/dr
+ ools-core-7.0.0.Final.jar lib/mvel2-2.3.0.Final.jar lib/kie-internal-
+ 7.0.0.Final.jar lib/commons-codec-1.10.jar lib/drools-decisiontables-
+ 7.0.0.Final.jar lib/drools-compiler-7.0.0.Final.jar lib/antlr-runtime
+ -3.5.jar lib/ecj-4.4.2.jar lib/xstream-1.4.9.jar lib/xmlpull-1.1.3.1.
+ jar lib/xpp3_min-1.1.4c.jar lib/protobuf-java-2.6.0.jar lib/drools-te
+ mplates-7.0.0.Final.jar lib/poi-ooxml-3.15.jar lib/poi-ooxml-schemas-
+ 3.15.jar lib/xmlbeans-2.6.0.jar lib/curvesapi-1.04.jar lib/stax-api-1
+ .0-2.jar lib/poi-3.15.jar lib/commons-collections4-4.1.jar lib/jbpm-t
+ est-7.0.0.Final.jar lib/jbpm-bpmn2-7.0.0.Final.jar lib/jbpm-flow-buil
+ der-7.0.0.Final.jar lib/jbpm-flow-7.0.0.Final.jar lib/kie-dmn-api-7.0
+ .0.Final.jar lib/commons-lang3-3.4.jar lib/jbpm-persistence-jpa-7.0.0
+ .Final.jar lib/jbpm-persistence-api-7.0.0.Final.jar lib/drools-persis
+ tence-jpa-7.0.0.Final.jar lib/drools-persistence-api-7.0.0.Final.jar 
+ lib/jbpm-audit-7.0.0.Final.jar lib/jbpm-query-jpa-7.0.0.Final.jar lib
+ /jbpm-human-task-core-7.0.0.Final.jar lib/activation-1.1.1.jar lib/jb
+ oss-annotations-api_1.2_spec-1.0.0.Final.jar lib/mail-1.4.5.jar lib/j
+ ackson-annotations-2.6.2.jar lib/jackson-core-2.6.2.jar lib/jackson-d
+ atabind-2.6.2.jar lib/jcl-over-slf4j-1.7.7.jar lib/jbpm-human-task-wo
+ rkitems-7.0.0.Final.jar lib/jbpm-shared-services-7.0.0.Final.jar lib/
+ jbpm-workitems-7.0.0.Final.jar lib/commons-io-2.5.jar lib/commons-com
+ press-1.12.jar lib/commons-exec-1.3.jar lib/jdom-1.1.3.jar lib/cxf-co
+ re-3.1.9.jar lib/woodstox-core-asl-4.4.1.jar lib/stax2-api-3.1.4.jar 
+ lib/cxf-rt-frontend-jaxws-3.1.9.jar lib/xml-resolver-1.2.jar lib/asm-
+ 5.0.4.jar lib/cxf-rt-bindings-soap-3.1.9.jar lib/cxf-rt-bindings-xml-
+ 3.1.9.jar lib/cxf-rt-ws-addr-3.1.9.jar lib/cxf-rt-ws-policy-3.1.9.jar
+  lib/cxf-rt-databinding-jaxb-3.1.9.jar lib/cxf-rt-wsdl-3.1.9.jar lib/
+ jaxb-impl-2.2.11.jar lib/jaxb-core-2.2.11.jar lib/cxf-rt-transports-h
+ ttp-3.1.9.jar lib/cxf-rt-frontend-simple-3.1.9.jar lib/wsdl4j-1.6.3.j
+ ar lib/neethi-3.0.3.jar lib/xmlschema-core-2.2.1.jar lib/httpcore-4.4
+ .1.jar lib/httpclient-4.5.jar lib/jbpm-runtime-manager-7.0.0.Final.ja
+ r lib/aether-api-1.0.2.v20150114.jar lib/jbpm-human-task-audit-7.0.0.
+ Final.jar lib/jbpm-human-task-jpa-7.0.0.Final.jar lib/jackson-core-as
+ l-1.9.13.jar lib/h2-1.3.173.jar lib/hibernate-entitymanager-5.1.4.Fin
+ al.jar lib/jboss-logging-3.3.0.Final.jar lib/dom4j-1.6.1.jar lib/xml-
+ apis-1.0.b2.jar lib/hibernate-commons-annotations-5.0.1.Final.jar lib
+ /hibernate-core-5.1.4.Final.jar lib/antlr-2.7.7.jar lib/jandex-2.0.3.
+ Final.jar lib/classmate-1.3.0.jar lib/hibernate-jpa-2.1-api-1.0.0.Fin
+ al.jar lib/btm-2.1.4.jar lib/javassist-3.20.0-GA.jar lib/jboss-transa
+ ction-api_1.2_spec-1.0.0.Final.jar lib/junit-4.12.jar lib/hamcrest-co
+ re-1.3.jar
+Main-Class: com.drools.RuleMain
+Created-By: Maven Integration for Eclipse
+
